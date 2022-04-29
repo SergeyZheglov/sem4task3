@@ -1,0 +1,3 @@
+C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3_build/CMakeFiles/task3.dir
+C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3_build/CMakeFiles/edit_cache.dir
+C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3_build/CMakeFiles/rebuild_cache.dir

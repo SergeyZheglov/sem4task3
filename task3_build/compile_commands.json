@@ -1,0 +1,17 @@
+[
+{
+  "directory": "C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3_build",
+  "command": "C:/Users/ezsh1/gcc/bin/g++.exe   -g -o CMakeFiles/task3.dir/src/main.cpp.obj -c \"C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3/src/main.cpp\"",
+  "file": "C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3/src/main.cpp"
+},
+{
+  "directory": "C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3_build",
+  "command": "C:/Users/ezsh1/gcc/bin/g++.exe   -g -o CMakeFiles/task3.dir/src/film.cpp.obj -c \"C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3/src/film.cpp\"",
+  "file": "C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3/src/film.cpp"
+},
+{
+  "directory": "C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3_build",
+  "command": "C:/Users/ezsh1/gcc/bin/g++.exe   -g -o CMakeFiles/task3.dir/src/film_gen.cpp.obj -c \"C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3/src/film_gen.cpp\"",
+  "file": "C:/Users/ezsh1/OneDrive/Documents/MSU inf/cpp_tasks/task3_dir/task3/src/film_gen.cpp"
+}
+]
